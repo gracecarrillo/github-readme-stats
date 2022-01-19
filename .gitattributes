@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dist/* linguist-vendored=false
+=======
+data export-ignore
+generated export-ignore
+>>>>>>> develop2/master
